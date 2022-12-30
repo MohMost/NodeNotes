@@ -5,11 +5,11 @@ console.log(__filename)
 
 //modules
 
-const bros = require('./data')
+const bros = require('./1-data')
 console.log(bros)
 
 // deconstructing
-const {arr, ages} = require('./data')
+const {arr, ages} = require('./1-data')
 console.log(arr, ages)
 
 //os
