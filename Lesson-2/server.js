@@ -12,4 +12,3 @@ const server = http.createServer((req, res)=>{
 server.listen(3000, 'localhost', ()=>{
   console.log('listening for request on port 3000')
 })
-//just a commentn
