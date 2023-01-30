@@ -1,7 +1,7 @@
 //global object
 
-console.log(__dirname)
-console.log(__filename)
+console.log(__dirname)//the path for the directory
+console.log(__filename)//the path for the file
 
 //modules
 
